@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**anvarbek001/anvarbek001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Anvarbek, a passionate **Frontend Developer** 🚀, currently improving my skills in **ReactJS** and exploring **Laravel** for backend development. I love solving problems, building user-friendly interfaces, and continuously learning new technologies.
 
-Here are some ideas to get you started:
+### 🌟 My Interests:
+- 💻 Frontend Development (React, JavaScript, CSS)
+- ⚡ Backend (Laravel, PHP)
+- 📡 API Integrations (Eskiz.uz SMS,)
+- 🎨 UI/UX Design (Figma)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Future Goals:
+- Mastering **React Query** and **state management**
+- Becoming a **Senior Frontend Developer**
+- Exploring **Full-Stack Development** 
+
+📫 **Let's connect!**  
+Feel free to check out my repositories and collaborate on exciting projects!
