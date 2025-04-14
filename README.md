@@ -32,13 +32,13 @@ I’m Anvarbek, a passionate **Frontend Developer** 🚀, currently improving my
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anvarbek-ergashev-6b5619276/" target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/anvarbek-ergashev-6b5619276/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/anvar_sen" target="_blank" style="text-decoration:none;">
+  <a href="https://instagram.com/anvar_sen" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@Web_developer_frontEnd" target="_blank" style="text-decoration:none;">
+  <a href="https://www.youtube.com/@Web_developer_frontEnd" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
@@ -80,16 +80,3 @@ I’m Anvarbek, a passionate **Frontend Developer** 🚀, currently improving my
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anvarbek001" alt="GitHub Streak" />
 </p>
-
----
-
-### 📂 My Projects
-
-<p align="center">
-  <a href="https://github.com/anvarbek001?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/followers/anvarbek001?label=View%20Projects&style=flat-square" alt="View Projects" />
-  </a>
-</p>
-
----
-
