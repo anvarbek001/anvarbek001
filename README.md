@@ -11,7 +11,7 @@ I’m Anvarbek, a passionate **Frontend Developer** 🚀, currently improving my
 
 ### 🚀 Future Goals:
 - Mastering **React Query** and **state management**
-- Becoming a **Senior Frontend Developer**
+- Becoming a **Senior FullStack Developer**
 - Exploring **Full-Stack Development** 
 
 📫 **Let's connect!**  
