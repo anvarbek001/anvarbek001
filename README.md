@@ -1,82 +1,91 @@
-<h1 align="center">Hi 👋, I'm Anvarbek</h1>
-<h3 align="center">A passionate Frontend Developer from Uzbekistan</h3>
+<h1 align="center">Salom, men Anvarbek! 👋</h1>
+<h3 align="center">FullStack Developer | Uzbekistan 🇺🇿</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anvarbek001&label=Profile%20views&color=0e75b6&style=flat" alt="anvarbek001" />
-  <img src="https://img.shields.io/github/followers/anvarbek001?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/anvarbek001?label=Follow&style=social" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Men haqimda
 
-I’m Anvarbek, a passionate **Frontend Developer** 🚀, currently improving my skills in **ReactJS** and exploring **Laravel** for backend development. I love solving problems, building user-friendly interfaces, and continuously learning new technologies.
+Men Jizzaxlik **FullStack dasturchi** Anvarbeкman. Frontend va backend texnologiyalarini birlashtirgan holda real loyihalar yarataman. Telegram botlar, REST API lar va veb ilovalar ustida ishlayman.
 
----
-
-### 🌟 My Interests:
-- 💻 Frontend Development (React, JavaScript, CSS)
-- ⚡ Backend (Laravel, PHP)
-- 📡 API Integrations (Eskiz.uz SMS)
-- 🎨 UI/UX Design (Figma)
+- 🔭 Hozirda: **Laravel 12**, **Node.js Telegram Bot** loyihalarida ishlayapman
+- 🌱 O'rganayotganim: **React Query**, **PostgreSQL** optimizatsiya
+- 💬 So'rashing mumkin: **PHP, JavaScript, Node.js, Telegram Bot**
+- 📫 Telegram: [@Anvarbek_Ergashev](https://t.me/Anvarbek_Ergashev)
+- 📍 Jizzax, O'zbekiston
 
 ---
 
-### 🚀 Future Goals:
-- Mastering **React Query** and **state management**
-- Becoming a **Senior FullStack Developer**
-- Exploring **Full-Stack Development**
+### 🛠️ Texnologiyalar
+
+**Frontend:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend:**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Ma'lumotlar bazasi:**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Boshqalar:**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ---
 
-### 📫 Let's Connect
+### 🚀 Loyihalarim
+
+| Loyiha | Tavsif | Texnologiya |
+|--------|--------|-------------|
+| [Vazifa Taqsimoti Bot](https://github.com/anvarbek001) | Telegram orqali xodimlar uchun topshiriq boshqaruvi | Node.js, PostgreSQL, Telegraf |
+| [Online Shop](https://github.com/anvarbek001/onlineShop) | Onlayn do'kon tizimi | PHP, MySQL |
+| [Personal Website](https://github.com/anvarbek001/personal_website) | Shaxsiy portfolio sayt | JavaScript |
+
+---
+
+### 📊 GitHub Statistika
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anvarbek-ergashev-6b5619276/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/anvar_sen" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@Web_developer_frontEnd" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=anvarbek001&show_icons=true&locale=en&theme=tokyonight" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anvarbek001&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anvarbek001&theme=tokyonight" alt="streak" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🏆 GitHub Mukofotlar
 
 <p align="center">
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=anvarbek001&theme=onestar&row=1" alt="trophies" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📫 Aloqa
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anvarbek001&theme=onedark" alt="anvarbek001 trophies" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anvarbek001&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=anvarbek001&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anvarbek001" alt="GitHub Streak" />
+<p align="left">
+  <a href="https://t.me/Anvarbek_Ergashev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anvarbek-ergashev-6b5619276/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/anvar_sen"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@Web_developer_frontEnd"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
